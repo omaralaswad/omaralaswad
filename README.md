@@ -27,8 +27,7 @@ I build deep learning systems for medical imaging and clinical AI. My work combi
 computer vision, clinical NLP, multimodal search, and explainability — with a focus
 on building AI that clinicians can actually trust and use.
 
-Currently preparing for MSc applications in AI / Medical AI (2027 intake) —
-targeting Erasmus Mundus EMAI and top European universities in Italy and Germany.
+
 
 ---
 
@@ -94,9 +93,6 @@ targeting Erasmus Mundus EMAI and top European universities in Italy and Germany
 ### Currently
 
 - BSc graduate in AI Engineering — Arab International University (2025)
-- Building medical AI portfolio for MSc applications (2027 intake)
-- Targeting Erasmus Mundus EMAI · Italy (Sapienza, Bologna, Polimi) · Germany (UTN, Hof)
-- IELTS preparation in progress
 - Open to remote AI/ML roles and international opportunities
 
 ---
