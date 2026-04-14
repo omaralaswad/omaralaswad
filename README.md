@@ -1,12 +1,15 @@
-<h1 align="center">Omar Alaswad</h1>
-<h3 align="center">AI & Machine Learning Engineer · Medical AI Specialist</h3>
+<h1 align="center">MHD Omar Alaswad</h1>
+<h3 align="center">AI / Machine Learning Engineer · Medical AI Specialist</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-al-aswad">
+  <a href="https://www.linkedin.com/in/omar-al-aswad-b8323b248">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/omar_al_aswad">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:omaralaswad63@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/omaralaswad">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
@@ -17,22 +20,26 @@
 
 ### About me
 
-BSc in Computer Science & AI Engineering, focused on building intelligent systems
-for healthcare and medical imaging. My work sits at the intersection of deep learning,
-computer vision, and clinical NLP — with a strong emphasis on explainability and
-real-world medical impact.
+BSc in Informatics Technology Engineering — specialization in Artificial Intelligence,
+Arab International University, Damascus, Syria (2025).
 
-Currently building toward an MSc in Artificial Intelligence / Medical AI.
+I build deep learning systems for medical imaging and clinical AI. My work combines
+computer vision, clinical NLP, multimodal search, and explainability — with a focus
+on building AI that clinicians can actually trust and use.
+
+Currently preparing for MSc applications in AI / Medical AI (2027 intake) —
+targeting Erasmus Mundus EMAI and top European universities in Italy and Germany.
 
 ---
 
 ### What I build
 
-- **Medical imaging** — CT scan analysis, chest X-ray classification, Grad-CAM explainability
+- **Medical imaging** — CT scan lung cancer detection, chest X-ray multi-label classification, Grad-CAM explainability
 - **Multimodal AI** — CLIP-based semantic search over medical literature using FAISS
-- **Clinical NLP** — symptom extraction, negation detection, biomedical embeddings
-- **VLM benchmarking** — evaluating BiomedCLIP, PubMedCLIP, BioCLIP on medical datasets
+- **Clinical NLP** — symptom extraction, negation detection (ConText), biomedical embeddings
+- **VLM benchmarking** — evaluating BiomedCLIP, PubMedCLIP, BioCLIP on ROCO medical dataset
 - **Speech AI** — medical audio transcription using wav2vec2
+- **Backend** — 4 production e-commerce systems built with Laravel + MySQL
 
 ---
 
@@ -40,9 +47,9 @@ Currently building toward an MSc in Artificial Intelligence / Medical AI.
 
 | Project | Description | Stack |
 |---|---|---|
-| [lung-cancer-ct-detection](https://github.com/omaralaswad/lung-cancer-ct-detection) | EfficientNetB1 trained on LUNA16 CT scans with Grad-CAM explainability | TensorFlow · LUNA16 |
-| [chest-xray-classification](https://github.com/omaralaswad/chest-xray-classification) | DenseNet-121 vs EfficientNetB1 on NIH ChestX-ray14 — 14 disease labels | PyTorch · NIH |
-| [medical-ai-multimodal-system](https://github.com/omaralaswad/medical-ai-multimodal-system) | End-to-end pipeline: speech → NER → FAISS search → VLM benchmarking | CLIP · FAISS · wav2vec2 |
+| [lung-cancer-ct-detection](https://github.com/omaralaswad/lung-cancer-ct-detection) | EfficientNetB1 fine-tuned on LUNA16 CT scans · AUC 0.921 · Grad-CAM explainability | TensorFlow · Keras |
+| [chest-xray-classification](https://github.com/omaralaswad/chest-xray-classification) | DenseNet-121 vs EfficientNetB1 · NIH ChestX-ray14 · 14 disease labels · Mean AUC 0.841 | PyTorch |
+| [medical-ai-multimodal-system](https://github.com/omaralaswad/medical-ai-multimodal-system) | Speech → NER → FAISS search → VLM benchmarking · End-to-end medical AI pipeline | CLIP · FAISS · wav2vec2 |
 
 ---
 
@@ -66,14 +73,15 @@ Currently building toward an MSc in Artificial Intelligence / Medical AI.
 **Languages**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Backend & Tools**
 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -92,9 +100,18 @@ Currently building toward an MSc in Artificial Intelligence / Medical AI.
 
 ### Currently
 
-- Building medical AI projects for MSc applications (2027 intake)
-- Targeting Erasmus Mundus EMAI, Italian and German universities
-- Focused on explainable AI for clinical decision support
+- BSc graduate in AI Engineering — Arab International University (2025)
+- Building medical AI portfolio for MSc applications (2027 intake)
+- Targeting Erasmus Mundus EMAI · Italy (Sapienza, Bologna, Polimi) · Germany (UTN, Hof)
+- IELTS preparation in progress
+- Open to remote AI/ML roles and international opportunities
+
+---
+
+### Certifications
+
+- ChatGPT Prompt Engineering for Developers
+- Git & GitHub Fundamentals for Software Developers
 
 ---
 
