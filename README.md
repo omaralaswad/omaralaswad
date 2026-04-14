@@ -89,14 +89,7 @@ targeting Erasmus Mundus EMAI and top European universities in Italy and Germany
 
 ---
 
-### GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omaralaswad&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaralaswad&theme=dark&hide_border=false&layout=compact&langs_count=8" width="38%"/>
-</p>
-
----
 
 ### Currently
 
